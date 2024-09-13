@@ -13,9 +13,11 @@ We're proud to be part of several exciting projects, including:
 - [EHDEN](https://ehden.eu/)
 - [OHDSI Spain Node](https://www.ohdsi-europe.org/index.php/national-nodes/spain)
 - [IMPaCT-Data](https://impact-data.bsc.es/)
+- [EOSC Association](https://eosc.eu/members/illes-balears-health-research-institute-foundation-idisba/)
+- [REGIC](https://regic.org/)
 
 ### Collaboration with IdISBa Platforms
-Our team also works closely with other research platforms within IdISBa, including:
+Our team brings expertise in multimodal data—such as imaging, genomics, and more—as well as data management, analysis, programming and open science, while working closely with other research platforms within IdISBa, including:
 - [Biobank](https://www.idisba.es/en/Support-Services/Scientific-Technical-Platforms/Biobank)
 - [Experimental Surgery and Animal Facility](https://www.idisba.es/en/Support-Services/Scientific-Technical-Platforms/Experimental-Surgery-and-Animal-Facility)
 - [Clinical Trials Unit](https://www.idisba.es/en/Support-Services/Scientific-Technical-Platforms/Clinical-Research-and-Clinical-Trials-Unit-UICEC-)
